@@ -1,5 +1,5 @@
 # amazingminds
-
+![alt text](https://github.com/nangajui/amazingminds/blob/main/image-110477747.jpg?raw=true)
 
 ## A situatoinally aware dynamic educational tool that helps educators and their neurodiverse learners ##
 
