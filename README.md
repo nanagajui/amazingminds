@@ -1,20 +1,21 @@
 # amazingminds
-Educational tool for neurodiverse learners
+## A Dynamic Educational tool that helps educatorsa and their neurodiverse learners ##
 
 The overall objective of this project is to create a Web App for Students who benefit from educational interventions to assist with their learning needs.
 
 Teachers are under increasing pressure to assist their students by providing a wide range of learning delivery methods that are increasingly beyond their capcity to deliver. 
-
 Learning requirements change dynamically throughout each session and apporaches that might be effective at times may not always be applicable to the same child. 
 
-AI technology is able to assist teachers and their students by helping to provide learning assistance in a way that is better suited to each individual even as the situation changes each moment. 
-
+AI technology is able to assist teachers and their students by helping to provide learning assistance in a way that is better suited to each individual that can dynamically change for each student thorughout their session at every moment. 
 This plan outlines a highlevel plan for this project outlining steps needed in creating a web application that leverages LLMs and MMLLMs to provide personalised support to teachers and their students with learning difficulties, this approach takes into account various learning needs and mental health considerations.
+
+## This is a work in progress and is open for anyone who would like to help make this tool to help our children. ##
+
+Current breakdown of work that is required.
 
 # Define User Personas & Needs:
 
 At this stage the app will focus on dyslexia, ADHD, auditory processing disorder, autism spectrum disorder and will also consider comobidities often associated with these disorders.
-
 Work required  - Create detailed user personas representing target student profiles, outlining their needs, challenges, and preferences in learning support.
 
 
