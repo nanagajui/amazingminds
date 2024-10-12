@@ -1,5 +1,7 @@
 # amazingminds
-## A Dynamic Educational tool that helps educatorsa and their neurodiverse learners ##
+
+
+## A situatoinally aware dynamic educational tool that helps educators and their neurodiverse learners ##
 
 The overall objective of this project is to create a Web App for Students who benefit from educational interventions to assist with their learning needs.
 
