@@ -47,12 +47,12 @@ Allow users to create accounts and log in, enabling personalized settings and pr
 Ensure secure storage and handling of user credentials.
 Integrate LLM Functionality:
 
-Set up a local server to host the chosen LLM (e.g., OpenAI's GPT).
+Set up a server to host the chosen LLM (e.g., open source model).
 Develop mechanisms for sending student prompts to the LLM and receiving responses.
 
 # LLM Response Processing & Delivery:
 
-Crate logic to analyze LLM responses and tailor them to individual student needs based on their user profile:
+Create logic to analyze LLM responses and tailor them to individual student needs based on their user profile:
 Pre-Prompt Engineering: Craft specific pre-prompts to guide the LLM towards generating suitable responses. This is essential for tailoring tone, complexity, and format.
   
   Example for Dyslexia: 
@@ -79,6 +79,8 @@ Anxiety/Overwhelm:
 Keep responses concise and reassuring.
 Offer positive reinforcement and encouragement.
 Prompt Example: "[Encourage the user] That's a great question! Let's work through it together..."
+
+The student will be able to indicate how they are feeling thorugh out the lesson, there could be options to use vision data to help better understand the situation. 
 
 # Testing and Refinement:
 Conduct thorough testing with students representing different learning profiles.
